@@ -3,15 +3,10 @@
  * @return {string}
  */
 var largestOddNumber = function(num) {
-    const splitedNum = num.split('');
-    let lastOddIdx = -1;
-    for(let i = splitedNum.length-1; i >= 0; i--){
-        if(splitedNum[i] % 2 === 1){
-            lastOddIdx = i;
-            break;
-        }
+    let str = num.toString();
+    for(let i = str.length-1; i >= 0; i--){
+        if(Number(str[i]) % 2 == 1)
+            return str.substring(0,i+1);
     }
-
-    if(lastOddIdx === -1) return '';
-    return splitedNum.slice(0, lastOddIdx + 1).join('');
+    return '';
 };
