@@ -2,7 +2,7 @@
  * @param {string} s
  * @return {number}
  */
-const minimumSteps = (s) => {
+function minimumSteps(s){
     let prev = 0;
     let count = 0;
 
