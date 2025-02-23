@@ -8,8 +8,6 @@ var hasMatch = function(s, p) {
     const prefix = parts[0];
     const suffix = parts[1];
 
-    console.log('suffix',suffix)
-
     let startIndex = s.indexOf(prefix);
     let endIndex = s.lastIndexOf(suffix);
 
