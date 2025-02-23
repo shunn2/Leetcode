@@ -16,9 +16,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shunn2/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [3684-substring-matching-pattern](https://github.com/shunn2/Leetcode/tree/master/3684-substring-matching-pattern) |
 ## String Matching
 |  |
 | ------- |
 | [3684-substring-matching-pattern](https://github.com/shunn2/Leetcode/tree/master/3684-substring-matching-pattern) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shunn2/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shunn2/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
