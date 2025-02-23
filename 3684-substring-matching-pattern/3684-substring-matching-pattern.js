@@ -14,7 +14,6 @@ var hasMatch = function(s, p) {
     if(startIndex === -1 || endIndex === -1){
         return false;
     }
-    
 
     if(startIndex + prefix.length <= endIndex){
         return true;
