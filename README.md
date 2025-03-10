@@ -4,7 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
-| [0096-unique-binary-search-trees](https://github.com/shunn2/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/shunn2/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
