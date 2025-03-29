@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shunn2/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shunn2/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/shunn2/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/shunn2/Leetcode/tree/master/0043-multiply-strings) |
 | [0409-longest-palindrome](https://github.com/shunn2/Leetcode/tree/master/0409-longest-palindrome) |
 | [0481-magical-string](https://github.com/shunn2/Leetcode/tree/master/0481-magical-string) |
 | [3684-substring-matching-pattern](https://github.com/shunn2/Leetcode/tree/master/3684-substring-matching-pattern) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shunn2/Leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/shunn2/Leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/shunn2/Leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shunn2/Leetcode/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/shunn2/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
