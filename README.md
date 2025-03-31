@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shunn2/Leetcode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/shunn2/Leetcode/tree/master/0048-rotate-image) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shunn2/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/shunn2/Leetcode/tree/master/0561-array-partition) |
 ## Greedy
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shunn2/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/shunn2/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/shunn2/Leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/shunn2/Leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shunn2/Leetcode/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shunn2/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
