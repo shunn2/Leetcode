@@ -6,6 +6,10 @@ function diffWaysToCompute(expression) {
   const memo = new Map();
 
   function helper(expr) {
+    if (memo.has(expr)){
+        return memo.get(expr);
+    }
+
     const results = [];
 
     for (let i = 0; i < expr.length; i++) {
