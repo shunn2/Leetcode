@@ -3,13 +3,7 @@
  * @return {number[]}
  */
 function diffWaysToCompute(expression) {
-  const memo = new Map();
-
   function helper(expr) {
-    if (memo.has(expr)){
-        return memo.get(expr);
-    }
-
     const results = [];
 
     for (let i = 0; i < expr.length; i++) {
@@ -33,7 +27,6 @@ function diffWaysToCompute(expression) {
       results.push(Number(expr));
     }
 
-    memo.set(expr, results);
     return results;
   }
 
