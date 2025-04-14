@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shunn2/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/shunn2/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shunn2/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/shunn2/Leetcode/tree/master/0561-array-partition) |
 ## Greedy
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shunn2/Leetcode/tree/master/0056-merge-intervals) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/shunn2/Leetcode/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shunn2/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shunn2/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/shunn2/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -121,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/shunn2/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
