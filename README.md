@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shunn2/Leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/shunn2/Leetcode/tree/master/0072-edit-distance) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shunn2/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/shunn2/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/shunn2/Leetcode/tree/master/0409-longest-palindrome) |
 | [0481-magical-string](https://github.com/shunn2/Leetcode/tree/master/0481-magical-string) |
 | [3684-substring-matching-pattern](https://github.com/shunn2/Leetcode/tree/master/3684-substring-matching-pattern) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/shunn2/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/shunn2/Leetcode/tree/master/0394-decode-string) |
 ## Memoization
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shunn2/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/shunn2/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
