@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/shunn2/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/shunn2/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/shunn2/Leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/shunn2/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0561-array-partition](https://github.com/shunn2/Leetcode/tree/master/0561-array-partition) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/shunn2/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shunn2/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/shunn2/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/shunn2/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Recursion
 |  |
 | ------- |
