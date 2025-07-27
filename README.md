@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shunn2/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shunn2/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/shunn2/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/shunn2/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/shunn2/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/shunn2/Leetcode/tree/master/0043-multiply-strings) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shunn2/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/shunn2/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/shunn2/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/shunn2/Leetcode/tree/master/0056-merge-intervals) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/shunn2/Leetcode/tree/master/0394-decode-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shunn2/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
