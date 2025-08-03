@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shunn2/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/shunn2/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0355-design-twitter](https://github.com/shunn2/Leetcode/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/shunn2/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shunn2/Leetcode/tree/master/0409-longest-palindrome) |
 ## Sliding Window
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/shunn2/Leetcode/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shunn2/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0355-design-twitter](https://github.com/shunn2/Leetcode/tree/master/0355-design-twitter) |
 ## Stack
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/shunn2/Leetcode/tree/master/0284-peeking-iterator) |
+| [0355-design-twitter](https://github.com/shunn2/Leetcode/tree/master/0355-design-twitter) |
 ## Iterator
 |  |
 | ------- |
