@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/shunn2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/shunn2/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shunn2/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0221-maximal-square](https://github.com/shunn2/Leetcode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shunn2/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/shunn2/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/shunn2/Leetcode/tree/master/0376-wiggle-subsequence) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/shunn2/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/shunn2/Leetcode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shunn2/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0221-maximal-square](https://github.com/shunn2/Leetcode/tree/master/0221-maximal-square) |
 | [0284-peeking-iterator](https://github.com/shunn2/Leetcode/tree/master/0284-peeking-iterator) |
 | [0368-largest-divisible-subset](https://github.com/shunn2/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/shunn2/Leetcode/tree/master/0376-wiggle-subsequence) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shunn2/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/shunn2/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/shunn2/Leetcode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shunn2/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Recursion
