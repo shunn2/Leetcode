@@ -5,7 +5,6 @@
 var partition = function(s) {
     const result = [];
     const currentPartition = [];
-    
     function isPalindrome(str, start, end) {
         while (start < end) {
             if (str[start] !== str[end]) {
@@ -16,13 +15,11 @@ var partition = function(s) {
         }
         return true;
     }
-    
     function backtrack(start) {
         if (start === s.length) {
             result.push([...currentPartition]);
             return;
         }
-        
         for (let end = start; end < s.length; end++) {
             if (isPalindrome(s, start, end)) {
                 currentPartition.push(s.substring(start, end + 1));
@@ -31,7 +28,6 @@ var partition = function(s) {
             }
         }
     }
-    
     backtrack(0);
     return result;
 };
