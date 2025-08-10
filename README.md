@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/shunn2/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/shunn2/Leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/shunn2/Leetcode/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/shunn2/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shunn2/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0389-find-the-difference](https://github.com/shunn2/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shunn2/Leetcode/tree/master/0392-is-subsequence) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/shunn2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/shunn2/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shunn2/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/shunn2/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/shunn2/Leetcode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shunn2/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/shunn2/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shunn2/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/shunn2/Leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/shunn2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/shunn2/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0526-beautiful-arrangement](https://github.com/shunn2/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Math
 |  |
