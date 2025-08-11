@@ -10,7 +10,6 @@ var loudAndRich = function(richer, quiet) {
     for(const [a, b] of richer){
         g[b].push(a);
     }
-
     function dfs(p){
         if(answer[p] !== -1){
             return answer[p];
@@ -22,10 +21,8 @@ var loudAndRich = function(richer, quiet) {
                 answer[p] = man;
             }
         }
-
         return answer[p];
     }
-
     for(let i = 0; i < n; i++){
         dfs(i);
     }
