@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/shunn2/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0881-loud-and-rich](https://github.com/shunn2/Leetcode/tree/master/0881-loud-and-rich) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/shunn2/Leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/shunn2/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0561-array-partition](https://github.com/shunn2/Leetcode/tree/master/0561-array-partition) |
+| [0881-loud-and-rich](https://github.com/shunn2/Leetcode/tree/master/0881-loud-and-rich) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shunn2/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Greedy
 |  |
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shunn2/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Graph
+|  |
+| ------- |
+| [0881-loud-and-rich](https://github.com/shunn2/Leetcode/tree/master/0881-loud-and-rich) |
+## Topological Sort
+|  |
+| ------- |
+| [0881-loud-and-rich](https://github.com/shunn2/Leetcode/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
