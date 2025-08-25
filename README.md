@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/shunn2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shunn2/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/shunn2/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shunn2/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/shunn2/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0881-loud-and-rich](https://github.com/shunn2/Leetcode/tree/master/0881-loud-and-rich) |
 ## Breadth-First Search
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/shunn2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/shunn2/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shunn2/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -197,11 +200,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shunn2/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/shunn2/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0355-design-twitter](https://github.com/shunn2/Leetcode/tree/master/0355-design-twitter) |
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shunn2/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/shunn2/Leetcode/tree/master/0394-decode-string) |
 ## Trie
 |  |
