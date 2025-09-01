@@ -1,6 +1,6 @@
 
 var Trie = function() {
-    this.map = new Map();
+    this.root = new Map();
 };
 
 /** 
@@ -8,11 +8,14 @@ var Trie = function() {
  * @return {void}
  */
 Trie.prototype.insert = function(word) {
-    if(this.map.has(word)){
-        this.map.delete(word);
+    let node = this.root;
+    for (const ch of word) {
+        if (!node.has(ch)) {
+            node.set(ch, new Map());
+        }
+        node = node.get(ch);
     }
-    this.map.set(word, word);
-    return null;
+    node.isEnd = true; 
 };
 
 /** 
@@ -20,10 +23,14 @@ Trie.prototype.insert = function(word) {
  * @return {boolean}
  */
 Trie.prototype.search = function(word) {
-    if(this.map.has(word)){
-        return true;
+    let node = this.root;
+    for (const ch of word) {
+        if (!node.has(ch)){
+            return false;
+        }
+        node = node.get(ch);
     }
-    return false;
+    return node.isEnd === true;
 };
 
 /** 
@@ -31,12 +38,14 @@ Trie.prototype.search = function(word) {
  * @return {boolean}
  */
 Trie.prototype.startsWith = function(prefix) {
-    for (const key of this.map.keys()) {
-        if (key.startsWith(prefix)){
-            return true;
+    let node = this.root;
+    for (const ch of prefix) {
+        if (!node.has(ch)){
+            return false;
         }
+        node = node.get(ch);
     }
-    return false;
+    return true;
 };
 
 /** 
