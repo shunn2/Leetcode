@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shunn2/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shunn2/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/shunn2/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/shunn2/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/shunn2/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/shunn2/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shunn2/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/shunn2/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/shunn2/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shunn2/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shunn2/Leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/shunn2/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shunn2/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shunn2/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/shunn2/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shunn2/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/shunn2/Leetcode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shunn2/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
