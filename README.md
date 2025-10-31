@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shunn2/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shunn2/Leetcode/tree/master/0409-longest-palindrome) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shunn2/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shunn2/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-longest-arithmetic-subsequence](https://github.com/shunn2/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shunn2/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shunn2/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shunn2/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Greedy
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/shunn2/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/shunn2/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shunn2/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shunn2/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shunn2/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search Tree
 |  |
