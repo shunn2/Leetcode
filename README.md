@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/shunn2/Leetcode/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/shunn2/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shunn2/Leetcode/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shunn2/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shunn2/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/shunn2/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/shunn2/Leetcode/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/shunn2/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0561-array-partition](https://github.com/shunn2/Leetcode/tree/master/0561-array-partition) |
 | [0881-loud-and-rich](https://github.com/shunn2/Leetcode/tree/master/0881-loud-and-rich) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/shunn2/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shunn2/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/shunn2/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0523-continuous-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shunn2/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shunn2/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shunn2/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shunn2/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
