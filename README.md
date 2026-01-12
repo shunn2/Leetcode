@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shunn2/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/shunn2/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/shunn2/Leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/shunn2/Leetcode/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/shunn2/Leetcode/tree/master/0481-magical-string) |
 ## Dynamic Programming
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/shunn2/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shunn2/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/shunn2/Leetcode/tree/master/0139-word-break) |
+| [0189-rotate-array](https://github.com/shunn2/Leetcode/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/shunn2/Leetcode/tree/master/0221-maximal-square) |
 | [0284-peeking-iterator](https://github.com/shunn2/Leetcode/tree/master/0284-peeking-iterator) |
 | [0347-top-k-frequent-elements](https://github.com/shunn2/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/shunn2/Leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/shunn2/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/shunn2/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/shunn2/Leetcode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shunn2/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/shunn2/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0523-continuous-subarray-sum) |
