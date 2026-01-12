@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/shunn2/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/shunn2/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/shunn2/Leetcode/tree/master/0436-find-right-interval) |
 | [0518-coin-change-ii](https://github.com/shunn2/Leetcode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/shunn2/Leetcode/tree/master/0526-beautiful-arrangement) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/shunn2/Leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/shunn2/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/shunn2/Leetcode/tree/master/0436-find-right-interval) |
 | [0561-array-partition](https://github.com/shunn2/Leetcode/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/shunn2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/shunn2/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/shunn2/Leetcode/tree/master/0436-find-right-interval) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shunn2/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 ## Binary Tree
 |  |
