@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/shunn2/Leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/shunn2/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0688-knight-probability-in-chessboard](https://github.com/shunn2/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
+| [0837-new-21-game](https://github.com/shunn2/Leetcode/tree/master/0837-new-21-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shunn2/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shunn2/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0837-new-21-game](https://github.com/shunn2/Leetcode/tree/master/0837-new-21-game) |
 ## Array
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/shunn2/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/shunn2/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0837-new-21-game](https://github.com/shunn2/Leetcode/tree/master/0837-new-21-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shunn2/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shunn2/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shunn2/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -297,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0523-continuous-subarray-sum) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/shunn2/Leetcode/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
