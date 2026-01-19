@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shunn2/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0837-new-21-game](https://github.com/shunn2/Leetcode/tree/master/0837-new-21-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shunn2/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shunn2/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/shunn2/Leetcode/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/shunn2/Leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/shunn2/Leetcode/tree/master/0221-maximal-square) |
 | [0284-peeking-iterator](https://github.com/shunn2/Leetcode/tree/master/0284-peeking-iterator) |
 | [0347-top-k-frequent-elements](https://github.com/shunn2/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/shunn2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/shunn2/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0209-minimum-size-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/shunn2/Leetcode/tree/master/0436-find-right-interval) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shunn2/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Probability and Statistics
 |  |
