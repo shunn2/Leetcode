@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shunn2/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/shunn2/Leetcode/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/shunn2/Leetcode/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/shunn2/Leetcode/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/shunn2/Leetcode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shunn2/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shunn2/Leetcode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shunn2/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/shunn2/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0398-random-pick-index](https://github.com/shunn2/Leetcode/tree/master/0398-random-pick-index) |
 | [0523-continuous-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0837-new-21-game](https://github.com/shunn2/Leetcode/tree/master/0837-new-21-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shunn2/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -311,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0837-new-21-game](https://github.com/shunn2/Leetcode/tree/master/0837-new-21-game) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/shunn2/Leetcode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/shunn2/Leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
