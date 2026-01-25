@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0837-new-21-game](https://github.com/shunn2/Leetcode/tree/master/0837-new-21-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shunn2/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shunn2/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Array
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/shunn2/Leetcode/tree/master/0881-loud-and-rich) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shunn2/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shunn2/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shunn2/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shunn2/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shunn2/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shunn2/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shunn2/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/shunn2/Leetcode/tree/master/0436-find-right-interval) |
 | [0561-array-partition](https://github.com/shunn2/Leetcode/tree/master/0561-array-partition) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shunn2/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting Sort
 |  |
 | ------- |
