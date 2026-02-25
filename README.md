@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/shunn2/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/shunn2/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/shunn2/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/shunn2/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/shunn2/Leetcode/tree/master/0436-find-right-interval) |
 | [0518-coin-change-ii](https://github.com/shunn2/Leetcode/tree/master/0518-coin-change-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/shunn2/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shunn2/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/shunn2/Leetcode/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/shunn2/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/shunn2/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/shunn2/Leetcode/tree/master/0436-find-right-interval) |
 | [0561-array-partition](https://github.com/shunn2/Leetcode/tree/master/0561-array-partition) |
@@ -331,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/shunn2/Leetcode/tree/master/0164-maximum-gap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/shunn2/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/shunn2/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
