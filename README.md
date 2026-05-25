@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shunn2/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0481-magical-string](https://github.com/shunn2/Leetcode/tree/master/0481-magical-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shunn2/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1871-jump-game-vii](https://github.com/shunn2/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [3684-substring-matching-pattern](https://github.com/shunn2/Leetcode/tree/master/3684-substring-matching-pattern) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shunn2/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/shunn2/Leetcode/tree/master/0837-new-21-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shunn2/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shunn2/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1871-jump-game-vii](https://github.com/shunn2/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0837-new-21-game](https://github.com/shunn2/Leetcode/tree/master/0837-new-21-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shunn2/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1871-jump-game-vii](https://github.com/shunn2/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shunn2/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Array
 | Problem Name | Difficulty |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/shunn2/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1871-jump-game-vii](https://github.com/shunn2/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 ## Probability and Statistics
 | Problem Name | Difficulty |
 | ------- | ------- |
